@@ -1,1 +1,2 @@
 # Paraline
+The line has always been a very important means of communication and representation in arts, architecture, and many other sectors. We are interested in the different ways in which the digital environment can be used as an opportunity to work with drawings, the paths that they leave in time and the possibility to visualize and materialize a 3-dimentional movement from two parallel worlds. 
